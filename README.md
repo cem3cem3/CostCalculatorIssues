@@ -1,2 +1,3 @@
 # CostCalculatorIssues
-A node based production cost calculation tool for the game Eco.
+Bug tracker for the Eco mod: Cost Calculator.
+The node based cost calculation mod.
